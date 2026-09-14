@@ -1,4 +1,6 @@
-yamlname: Generate Sitemap
+yaml
+
+name: Generate Sitemap
 
 on:
   push:
